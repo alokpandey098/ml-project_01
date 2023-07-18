@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 
-setup(name="house_price_prediction",
+setup(name="Daimond_price_prediction",
       version="0.0.1",
       author="Alok",
       author_email="pandeyaarav270@gmail.com",
